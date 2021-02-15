@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Italic text_
+
+**Bold text**
+
+Uncle Roger **LOVES** fried rice, but _without_ chili jam.
